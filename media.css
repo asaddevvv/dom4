@@ -1,0 +1,33 @@
+@media(max-width: 992px){
+.container{
+    width: 90%;
+    height: 0 auto;
+  }
+  .nav__link {
+    margin: 0 20px;
+    font-size: 14px;
+}
+.header_block {
+  flex-direction: column;
+}
+.text_hd {
+  margin-top: 40px;
+}
+  .text_hd h1 {
+    font-size: 34px;
+    line-height: 40px;
+}
+  .text_sh {
+    margin-top: 20px;
+    font-size: 17px;
+}
+
+
+
+
+
+}
+
+
+
+
